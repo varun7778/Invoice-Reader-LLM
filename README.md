@@ -8,7 +8,7 @@ This project provides a web application that extracts information from invoices 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/multi-language-invoice-extractor.git
+   git clone https://github.com/varun7778/Invoice-Reader-LLM.git
    ```
 2. Create a virtual environment:
    ```bash
