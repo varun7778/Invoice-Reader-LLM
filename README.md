@@ -4,6 +4,8 @@
 
 This project provides a web application that extracts information from invoices in multiple languages using Google AI's Gemini text-to-image model. Users can upload an invoice image, provide a prompt, and receive informative responses about the invoice content.
 
+Model Used: 'gemini-pro-vision'
+
 ## Installation
 
 1. Clone the repository:
